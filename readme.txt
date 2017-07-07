@@ -1,1 +1,1 @@
-react demo project
+react demo
