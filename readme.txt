@@ -1,3 +1,3 @@
 react demo
 a eleme react demo
-Git tracks changes.
+Git tracks changes of files
